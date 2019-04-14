@@ -1,0 +1,14 @@
+/home/jahbenjah/RetailApi/bin/Debug/netcoreapp2.2/RetailApi.deps.json
+/home/jahbenjah/RetailApi/bin/Debug/netcoreapp2.2/RetailApi.runtimeconfig.json
+/home/jahbenjah/RetailApi/bin/Debug/netcoreapp2.2/RetailApi.runtimeconfig.dev.json
+/home/jahbenjah/RetailApi/bin/Debug/netcoreapp2.2/RetailApi.dll
+/home/jahbenjah/RetailApi/bin/Debug/netcoreapp2.2/RetailApi.pdb
+/home/jahbenjah/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.csprojAssemblyReference.cache
+/home/jahbenjah/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.csproj.CoreCompileInputs.cache
+/home/jahbenjah/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.RazorAssemblyInfo.cache
+/home/jahbenjah/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.RazorAssemblyInfo.cs
+/home/jahbenjah/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.AssemblyInfoInputs.cache
+/home/jahbenjah/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.AssemblyInfo.cs
+/home/jahbenjah/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.RazorTargetAssemblyInfo.cache
+/home/jahbenjah/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.dll
+/home/jahbenjah/RetailApi/obj/Debug/netcoreapp2.2/RetailApi.pdb
